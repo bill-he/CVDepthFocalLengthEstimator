@@ -1,6 +1,8 @@
 ComputerVision-Absolute-Depth-Detection-With-Single-Image
 =========================================================
 
+# Paper
+Please see Report.pdf for our analytical paper for this project
  
 
 Dependencies:
@@ -18,19 +20,25 @@ Instructions:
 2.  Place both datasets in the “data” folder
 
 
-Size Estimation:
+### Size Estimation:
 ```
 python estimateSize.py
 
 ```
 
-Depth Estimation:
+### Depth Estimation:
 ```
 python estimateDepth.py
 
 ```
 
-Want to help with Labeling:
+### Depth Estimation:
+```
+python estimateDepth.py
+
+```
+
+# Want to help with Labeling:
 ```
 cd labeling
 python LabelingRig.py
